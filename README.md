@@ -19,8 +19,8 @@ FBI is an accurate facebook account information gathering, all sensitive informa
 ```
 $ apt update && apt upgrade
 $ apt install git python2
-$ git clone https://github.com/xHak9x/fbi.git
-$ cd fbi
+$ git clone https://github.com/tarunkumar519/FbI.git
+$ cd FbI
 ```
 
 # [ Setup ]
@@ -32,7 +32,7 @@ $ pip2 install -r requirements.txt
 $ python2 fbi.py
 ```
 # [ Screenshot ]
-<img src="https://image.ibb.co/iLFhD9/fbi.png"/>
+
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
