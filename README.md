@@ -32,7 +32,7 @@ $ pip2 install -r requirements.txt
 $ python2 fbi.py
 ```
 # [ Screenshot ]
-![Alt text](https://ibb.co/v3VNsVH "Optional title")
+<img src="https://i.ibb.co/St5kQ5P/Screenshot-20200718-153652.jpg"/>
 
 * if you are confused how to use it, please type 'help' to display the help menu
 * [Warn] please turn off your VPN before using this program !!!
